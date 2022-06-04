@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DrGomez21
-- 👀 I’m interested in Android Dev
-- 🌱 I’m currently learning Kotlin
-- 📫 How to reach me devgo.bydrgm21@gmail.com
+- 👀 I’m interested in Android Dev and Web
+- 📫 How to reach me: devgo.bydrgm21@gmail.com
 - 🗺 I’m from Paraguay =)
 
 <!---
