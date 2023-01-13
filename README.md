@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrGomez21
-- 👀 I’m interested in Android Dev and Web
+- 👀 I’m interested in Android Dev
 - 📫 How to reach me: devgo.bydrgm21@gmail.com
 - 🗺 I’m from Paraguay =)
 
